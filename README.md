@@ -1,2 +1,9 @@
-# abhicode04
-Calculator-App
+# Calculator App
+
+Simple calculator built using HTML, CSS and JavaScript.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
